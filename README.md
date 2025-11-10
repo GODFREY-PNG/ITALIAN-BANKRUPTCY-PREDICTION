@@ -1,5 +1,4 @@
-# Create README.md file
-cat > README.md << 'EOF'
+
 🏦 Bankruptcy Prediction in Italian Banks
 =========================================
 
