@@ -1,11 +1,11 @@
 
-🏦 Bankruptcy Prediction in Italian Banks
+🏦 Bankruptcy Prediction in Italian companies
 =========================================
 
 📘 Overview
 ------------
-This project focuses on predicting the likelihood of bankruptcy among Italian banks using historical financial data and machine learning.  
-The goal is to help financial institutions identify at-risk banks early, minimizing administrative and legal costs through proactive decision-making.
+This project focuses on predicting the likelihood of bankruptcy among Italian companies using historical financial data and machine learning.  
+The goal is to help financial institutions identify at-risk companies early, minimizing administrative and legal costs through proactive decision-making.
 
 ⚙️ Project Workflow
 --------------------
