@@ -1,9 +1,19 @@
 # 📉 Early Bankruptcy Risk Detection for Italian Companies  
 ### A Cost-Sensitive Machine Learning Approach for Financial Decision-Making
 
+<<<<<<< HEAD
 ## 1️⃣ Business Problem
 
 Financial institutions face significant costs when corporate bankruptcies are detected too late. These costs include loan defaults, legal proceedings, and administrative overhead. At the same time, overly aggressive risk flagging can lead to unnecessary legal reviews and missed business opportunities.
+=======
+🏦 Bankruptcy Prediction in Italian companies
+=========================================
+
+📘 Overview
+------------
+This project focuses on predicting the likelihood of bankruptcy among Italian companies using historical financial data and machine learning.  
+The goal is to help financial institutions identify at-risk companies early, minimizing administrative and legal costs through proactive decision-making.
+>>>>>>> f7c8cfbf8f56e4e44aeb0e118d274007826ee69c
 
 ### Objective
 The objective of this project is to support credit risk and financial monitoring teams by predicting the likelihood of bankruptcy among Italian companies, enabling earlier intervention and more cost-effective decision-making.
